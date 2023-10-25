@@ -1,0 +1,17 @@
+,Semantics,Attribute Type,Cardinality
+Date,The specific day of the month of the year,Temporal,01-12-2017 to 30-11-2018
+Rented Bike Count,The specific number of bikes rented in given hour,Quantitative,0 - 3556 bikes rented
+Hour,The specific hour of the day                                    ,Ordinal,24
+Temperature (°C),The temperature in given hour,Quantitative,-17.8 - 39.4 °C
+Humidity (%),The humidity in given hour,Quantitative,0 - 98 % humidity
+Wind speed (m/s),The wind speed in given hour,Quantitative,0 - 7.4 m/s wind speed
+Visibility (10m),The visibility (how far you can see clearly) in given hour,Quantitative,27 - 2000 (10m) visibility
+Dew point temperature (°C),The dew point temperature in given hour,Quantitative,-30.6 - 27.2 °C dew point temperature
+Solar Radiation (MJ/m2),The amount of solar radiation in given hour,Quantitative,0 - 3.52 (MJ/m2)
+Rainfall (mm),The amount of rain in given hour,Quantitative,0 - 35 (mm)
+Snowfall (cm),The amount of snow in given hour,Quantitative,0 - 8.8 (cm)
+Seasons,The specific season of the year,Nominal,4
+Holiday,Is today a holiday or not,Nominal,2
+Functioning Day,Is today a functioning day or not,Nominal,2
+Month,The specific month of the year,Ordinal,12
+Weekend,Is today on a weekend or not,Nominal,2
