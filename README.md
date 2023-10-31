@@ -15,8 +15,9 @@ Follow the steps below to activate VegaFusion and explore the data visualization
 
 * Navigate to the root of project by running `cd Seoul_bike_rental_viz/` in your terminal.
 
-* Run the following commands to install and enable VegaFusion in your terminal:
+* Run the following command to install VegaFusion in your terminal:
 * ``` pip install "vegafusion[embed]" ```
+* Enable the VegaFusion Data Transformer with:
 * ``` alt.data_transformers.enable("vegafusion") ```
   
 
