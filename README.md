@@ -10,12 +10,13 @@ The VegaFusion Data Transform is enabled for processing large datasets, resolvin
 
 Follow the steps below to activate VegaFusion and explore the data visualization:
 
-* Clone this GitHub repository by clicking the green code button, copy the url 
-* https://github.com/yuwangy/Seoul_bike_rental_viz.git, and run git clone <url> in terminal.
+* Clone this GitHub repository by clicking the green code button, copy the url: 
+* ``` https://github.com/yuwangy/Seoul_bike_rental_viz.git ```, and run `git clone url` in your terminal.
 
-* Navigate to the root of project by running cd Seoul_bike_rental_viz/ in terminal.
+* Navigate to the root of project by running `cd Seoul_bike_rental_viz/` in your terminal.
 
 * Run the following commands to install and enable VegaFusion in your terminal:
-* `pip install "vegafusion[embed]`
-* `alt.data_transformers.enable("vegafusion")`
+* ``` pip install "vegafusion[embed]" ```
+* ``` alt.data_transformers.enable("vegafusion") ```
+  
 
