@@ -6,7 +6,7 @@
 In this study on bike rentals in Seoul, our aim is to delve into data wrangling, processing and visualization. We want to develop skills of tidying up our data and and modifying it to suit the tasks at hand. Also, we seek to improve our visualization design skills by exploring various types of visualizations to identify the one that best fits our objectives.
 
 ## Usage
-The VegaFusion Data Transform is enabled for processing large datasets, resolving the issues of MaxRowsError.
+The VegaFusion Data Transformer is enabled for processing large datasets, resolving the issues of `MaxRowsError`.
 
 Follow the steps below to activate VegaFusion and explore the data visualization:
 
